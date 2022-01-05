@@ -1,4 +1,6 @@
 int func1()
 {
-    return 20;
+    int i = 20;
+
+    return i;
 }
