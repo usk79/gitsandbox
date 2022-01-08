@@ -1,6 +1,11 @@
-int func1()
-{
-    int i = 20;
+#include <stdio.h>
 
-    return i;
+int sub_func()
+{
+    printf("this is sub_func()");
+}
+
+int main()
+{
+    sub_func();
 }
