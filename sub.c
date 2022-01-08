@@ -3,7 +3,6 @@
 int sub_func()
 {
     printf("this is sub_func()");
-    printf("abcdefghijklmn\n");
 }
 
 int main()
